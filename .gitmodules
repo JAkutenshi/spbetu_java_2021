@@ -1,3 +1,21 @@
 [submodule "CommandName_summer_-practise2021"]
 	path = CommandName_summer_-practise2021
 	url = git@github.com:RomanRybnikov/CommandName_summer_-practise2021.git
+[submodule "9382_summer_practic_2021"]
+	path = 9382_summer_practic_2021
+	url = git@github.com:Valentina-Gol/9382_summer_practic_2021.git
+[submodule "DoM_KopoJleBbl"]
+	path = DoM_KopoJleBbl
+	url = git@github.com:somewaytolive/DoM_KopoJleBbl.git
+[submodule "Summer_practice_2021"]
+	path = Summer_practice_2021
+	url = git@github.com:Shoxboss/Summer_practice_2021.git
+[submodule "9381_summer_practice_2021"]
+	path = 9381_summer_practice_2021
+	url = git@github.com:VladimirLyubimov/9381_summer_practice_2021.git
+[submodule "SummerPractice"]
+	path = SummerPractice
+	url = git@github.com:KonstantinMosin/SummerPractice.git
+[submodule "SummerPractice-moevm"]
+	path = SummerPractice-moevm
+	url = git@github.com:dmnistratov/SummerPractice-moevm.git
